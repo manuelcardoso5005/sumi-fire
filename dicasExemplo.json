@@ -1,0 +1,17 @@
+{
+    "Baixo Risco": [
+        "Continue a realizar manutenções preventivas regularmente.",
+        "Monitore e atualize os sistemas de prevenção de incêndio."
+    ],
+    "Médio Risco": [
+        "Avalie a necessidade de melhorias nos sistemas de prevenção de incêndio, como a instalação de sprinklers adicionais ou alarmes.",
+        "Treine os ocupantes em procedimentos de evacuação.",
+        "Considere a realização de inspeções mais frequentes."
+    ],
+    "Alto Risco": [
+        "Implementar imediatamente medidas adicionais de segurança, como aumentar a capacidade dos sistemas de combate a incêndio.",
+        "Reduzir a quantidade de materiais inflamáveis ou armazenar esses materiais de forma mais segura.",
+        "Aumentar a proximidade com os recursos de emergência ou implementar sistemas de comunicação direta com serviços de emergência.",
+        "Revisar as práticas de manutenção e inspeção para identificar possíveis falhas ou áreas críticas."
+    ]
+}
